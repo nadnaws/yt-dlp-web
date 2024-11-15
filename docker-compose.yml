@@ -7,9 +7,9 @@ services:
     user: 1000:1000
     # environment:
     #   If you need to protect the site, set AUTH_SECRET, CREDENTIAL_USERNAME, CREDENTIAL_PASSWORD.
-    #   AUTH_SECRET: "Random_string,_40+_characters_recommended"
-    #   CREDENTIAL_USERNAME: "username"
-    #   CREDENTIAL_PASSWORD: "password"
+    #   AUTH_SECRET: "ruDKYjFEdS7Pc9krz+6VcYzpfJXQzWxkEBpwLkPbhIMx+UsYQF7oCAaMiSU="
+    #   CREDENTIAL_USERNAME: "nadnaws"
+    #   CREDENTIAL_PASSWORD: "nadnaws"
     volumes:
       - ~/Desktop/downloads:/downloads
       - ~/Desktop/cache:/cache
